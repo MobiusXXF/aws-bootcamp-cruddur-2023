@@ -1,4 +1,13 @@
+tasks:
+  - name: aws-cli
+    env:
+      AWS_CLI_AUTO_PROMPT: on-partial
+    before: |
+      source ./bin/install_aws_cli
 
 vscode:
   extensions:
-    - 42Crunch.vscode-openapi
+  - amazonwebservices.aws-toolkit-vscode
+  - mhutchie.git-graph
+  - phil294.git-log--graph
+  - 42Crunch.vscode-openapi
