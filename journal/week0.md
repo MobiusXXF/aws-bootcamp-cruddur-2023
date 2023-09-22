@@ -39,8 +39,16 @@ AWS Billing Alarms are a cost monitoring and alerting feature. These alarms allo
 AWS Cost Explorer is a cost analysis tool provided that allows users to visualize and understand their AWS spending patterns. It offers insights into past, present, and projected AWS costs, helping users make informed decisions to optimize their cloud expenses.
 
 
-## AWS Organisations
-.
+## Organisations
+`AWS Organisations` is an account management services which allow you to consolidate multiple AWS accounts under a single organisation manangement account. These Organisations provide benefits, such as account management and `consolidated billing capabilities` to meet budget, security and compliance needs of a business or project.
+
+As Organisation Admin, you can create member account within the organisation or invite existing accounts to join organisation.
+
+[Introduction to Organisations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html)
+
+Created `Organisational Units` called `Active-Accounts` and `Standby-Accounts` , which may be of use later in the project to organise components:
+
+![Organisational Unit](/week0-ou.png)
 
 
 ## Well Architected Tool
