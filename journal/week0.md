@@ -76,7 +76,7 @@ This bootcamp introduces me to Lucidchart, and my first experience of it will be
 
 ![placeholder](assets/coming-soon.png)
 
-<!--
+
 <a href="https://lucid.app/lucidchart/18ee2f86-c16f-44c6-b9aa-2cb4ed92c939/edit?invitationId=inv_f082e45f-7a6e-4e19-989a-eb8c039345d5">
 <img alt="Logical Diagram in Lucidchart for Cruddur" src="assets/weeek0-lc">
 </a>
@@ -85,6 +85,4 @@ This bootcamp introduces me to Lucidchart, and my first experience of it will be
 Quick sketch of the project idea, "A social media site with all the community, but none of the baggage". 
 The inspiration for the Lucidchart:
 
-![Napkin Diagram](assets/week0-napkin)
-
--->
+![Napkin Diagram](assets/week0-nd.png)
