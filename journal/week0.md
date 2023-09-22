@@ -65,7 +65,7 @@ Pillar Priority:
 1. Sustainability
 
 Example of a question asked within the operational excellence pillar of the AWS Well Architected Tool:
-![Question 5 With Pillar of Operational Excellence](assets/week0-awat)
+![Question 5 With Pillar of Operational Excellence](assets/week0-awat.png)
 
 **NOTE:** I will continue to learn about the tool and attempt to use it through the project.
 
