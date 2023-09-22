@@ -9,8 +9,9 @@
 - [AWS Organisations](#aws-organisations)
     - [Organisational Units](#organisational-units)
 - [AWS Well Architected Tool](#aws-well-architected-tool)
-- [Created Cruddur LucidChart](#created-cruddur-lucidchart)
-
+- [Cruddur LucidChart and Napkin Diagram](#cruddur-lucidchart-and-napkin-diagram)
+    - [Logical Lucidchart Diagram](#logical-lucidchart-diagram)
+    - [Napkin Diagram](#napkin-diagram)
 
 ## Installing AWS CLI
 Bash script written to automate AWS CLI installation using `.gitpod.yml` file.
@@ -70,16 +71,18 @@ Example of a question asked within the operational excellence pillar of the AWS 
 
 **NOTE:** I will continue to learn about the tool and attempt to use it during the project.
 
-## Created Cruddur Lucidchart
+## Cruddur Lucidchart and Napkin Diagram
 
 This bootcamp introduces me to Lucidchart, and my first experience of it will be to recreate the logical diagram of Cruddur's infrastructure.
 
+### Logical Lucidchart Diagram
 ![placeholder](assets/coming-soon.png)
 
-
+<!--
 <a href="https://lucid.app/lucidchart/18ee2f86-c16f-44c6-b9aa-2cb4ed92c939/edit?invitationId=inv_f082e45f-7a6e-4e19-989a-eb8c039345d5">
 <img alt="Logical Diagram in Lucidchart for Cruddur" src="assets/weeek0-lc">
 </a>
+-->
 
 ### Napkin Diagram
 Quick sketch of the project idea, "A social media site with all the community, but none of the baggage". 
