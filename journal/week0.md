@@ -56,7 +56,7 @@ Created `Organisational Units` called `Active-Accounts` and `Standby-Accounts` ,
 ## AWS Well Architected Tool
 The `AWS Well Architected Tool` is guided by a framework that helps us better implement secure, high performing, resilient and efficient infrastructure for our applications and workloads.
 
-Pillar Priority:
+Pillar Priority (Which can be re-ordered based on the workload):
 1. Operational Excellence
 1. Security
 1. Reliability
@@ -65,10 +65,26 @@ Pillar Priority:
 1. Sustainability
 
 Example of a question asked within the operational excellence pillar of the AWS Well Architected Tool:
+
 ![Question 5 With Pillar of Operational Excellence](assets/week0-awat.png)
 
-**NOTE:** I will continue to learn about the tool and attempt to use it through the project.
+**NOTE:** I will continue to learn about the tool and attempt to use it during the project.
 
-## Created Cruddur LucidChart
-.
+## Created Cruddur Lucidchart
 
+This bootcamp introduces me to Lucidchart, and my first experience of it will be to recreate the logical diagram of Cruddur's infrastructure.
+
+![placeholder](assets/coming-soon.png)
+
+<!--
+<a href="https://lucid.app/lucidchart/18ee2f86-c16f-44c6-b9aa-2cb4ed92c939/edit?invitationId=inv_f082e45f-7a6e-4e19-989a-eb8c039345d5">
+<img alt="Logical Diagram in Lucidchart for Cruddur" src="assets/weeek0-lc">
+</a>
+
+### Napkin Diagram
+Quick sketch of the project idea, "A social media site with all the community, but none of the baggage". 
+The inspiration for the Lucidchart:
+
+![Napkin Diagram](assets/week0-napkin)
+
+-->
